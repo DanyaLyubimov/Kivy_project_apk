@@ -6,7 +6,7 @@ from kivy.core.window import Window
 from kivy.uix.floatlayout import FloatLayout
 import re
 
-Window.size = (500, 700)
+
 
 Builder.load_file('kalk.kv')
 
